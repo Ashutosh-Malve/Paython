@@ -12,7 +12,7 @@ NEXT_YEAR = None
 LAST_YEAR = None
 
 def setup():
-    """setting up the test"""
+    """ Setting up the test """
 
     global TEST_CARDS
     global NEXT_YEAR
